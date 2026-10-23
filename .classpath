@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_421"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/applauncher-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/criptdash.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/dwf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/dwf-model.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/filterengine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/groovy-snk-all-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/HubClient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jaxen-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jboleto.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jbossaddons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/jdom-jaxen-jboss.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgecom-model-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-convert.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgectbz-model.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgefin-model-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-modelcore-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-modulemgr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-os-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-param.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgepesq-model.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgepesq-model-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-schedule.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mgeserv-model-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/mge-table.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-base-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-base-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-connector-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/print-service-connector-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/reflectdao.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/SanAuth-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sancrypt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sanhttp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/san-jasper-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sank-controller-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sankhya-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sankhya-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sannfe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sanSMS-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sanws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/sascomm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/skw-api-service-totalcross-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/skw-api-service-totalcross-1.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/skw-api-service-totalcross-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/skw-environment.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/snk-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/snk-pix-client-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/soapsigner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/SVNHistoryFinder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/textreport.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/themesync.jar"/>
+	<classpathentry kind="lib" path="C:/Users/betal/OneDrive/Área de Trabalho/Java/api_sankhya/timimob-model.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
