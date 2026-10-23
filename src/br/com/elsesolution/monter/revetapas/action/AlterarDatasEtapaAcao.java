@@ -13,7 +13,7 @@ import br.com.sankhya.jape.wrapper.JapeFactory;
 import br.com.sankhya.jape.wrapper.JapeWrapper;
 import br.com.sankhya.jape.wrapper.fluid.FluidUpdateVO;
 
-
+//código final
 public class AlterarDatasEtapaAcao implements AcaoRotinaJava {
 
 	@Override
